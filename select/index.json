@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "愛をこめて花束を",
+  "base_artist": "Superfly",
+  "createdAt": "2025-12-02T14:45:33.793358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/01_愛をこめて花束を_Superfly.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛をこめて花束を (献上爱的花束)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/02_愛をこめて花束を_(献上爱的花束)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly - Topic",
+      "has_synced": true,
+      "path": "select/03_愛をこめて花束を_Superfly_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛をこめて花束を - Ai o Komete Hanataba o",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/04_愛をこめて花束を_-_Ai_o_Komete_Hanataba_o_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛をこめて花束を - AI WO KOMETE HANATABAWO",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/05_愛をこめて花束を_-_AI_WO_KOMETE_HANATABAWO_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/06_愛をこめて花束を_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛をこめて花束を -Orchestra Ver.-",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/07_愛をこめて花束を_-Orchestra_Ver.-_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/08_愛をこめて花束を_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛をこめて花束を (Superfly 10th Anniversary Premium LIVE \"Bloom\")",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/09_愛をこめて花束を_(Superfly_10th_Anniversary_Premium_LIVE__Bloom_)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛をこめて花束を (カラオケ)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/10_愛をこめて花束を_(カラオケ)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛をこめて花束を(Piano ver.)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/11_愛をこめて花束を(Piano_ver.)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Superfly 『愛をこめて花束を』Music Video",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/12_Superfly_『愛をこめて花束を』Music_Video_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛をこめて花束を -Orchestra Ver.- (Orchestra Version)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/13_愛をこめて花束を_-Orchestra_Ver.-_(Orchestra_Version)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/14_愛をこめて花束を_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/15_愛をこめて花束を_Superfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_愛をこめて花束を_Superfly.txt"
+    }
+  ]
+}
